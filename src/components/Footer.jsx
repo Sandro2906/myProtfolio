@@ -7,7 +7,7 @@ import { Link } from 'react-scroll'
 
 const Footer = () => {
   return (
-    <div className='w-full h-auto flex flex-col md:flex-row bg-white justify-around items-center'>
+    <div className='w-full h-auto px-4 flex flex-col md:flex-row bg-white justify-around items-center'>
         <div className='w-[400px] h-[220px] flex flex-col mt-10'>
             <h1 className='font-boldText text-4xl pb-5 '>CONTACT</h1>
             <p>If you want to contact me in some other way, you can contact me on Instagram, Linkedin or e-mail.</p>
