@@ -49,7 +49,7 @@ const Portfolio = () => {
     ]
 
   return (
-    <div name='portfolio' className=' md:pl-24 md:pr-24 bg-red-600 w-full py-28 text-white h-auto'>
+    <div name='portfolio' className=' md:pl-24 md:pr-24 bg-red-600 w-full py-14 text-white h-auto'>
         <div className='max-w-screen-large p-4 mx-auto flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p data-aos="fade-left" className='text-7xl font-boldText'>PortFolio</p>
