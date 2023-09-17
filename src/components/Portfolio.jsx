@@ -30,7 +30,7 @@ const Portfolio = () => {
         {
             id:3,
             src:fitness,
-            webSite: 'https://web-fitness-six.vercel.app/?fbclid=IwAR3UthLxdPyytR1lUFrCvf0o-3P0J7NijXRlvAasvamYquKWJv674rnEvWY',
+            webSite: 'https://blog-fitness.vercel.app',
             code: 'https://github.com/Sandro2906/webFitness'
             
         },
