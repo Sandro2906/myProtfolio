@@ -80,7 +80,7 @@ const Experience = () => {
 
   return (
     <div name='experience' className='bg-black w-full h-auto py-14'>
-      <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
+      <div className='max-w-screen-lg mx-auto p-7 flex flex-col justify-center w-full h-full text-white'>
         <div>
           <p data-aos="fade-left" className='text-4xl font-boldText p-2 '>Programming Languages and Tools Expertise</p>
           <p data-aos="fade-right" className='py-10 font-digital text-2xl'>I possess a diverse skill set encompassing various programming languages, tools, and frameworks, enabling me to tackle a wide range of software development projects effectively. Here is an overview of my expertise:</p>
