@@ -14,7 +14,7 @@ const Home = () => {
   },[])
 
   return (
-    <div name='home' className='h-auto w-full bg-white py-28 md:h-screen'>
+    <div name='home' className='h-auto w-full bg-white py-14 md:h-screen'>
 
       <div className='text-white max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
         <div data-aos="fade-up" className='flex flex-col justify-center h-full'>
