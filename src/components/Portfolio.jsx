@@ -36,7 +36,9 @@ const Portfolio = () => {
         },
         {
             id:4,
-            src:Nothing
+            src:Nothing,
+            webSite: 'https://chipsy-web-site.vercel.app',
+            code: 'https://github.com/Sandro2906/ChipsyWebSite/tree/master/frontend'
         },
         {
             id:5,
