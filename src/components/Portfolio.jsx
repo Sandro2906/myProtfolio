@@ -3,6 +3,8 @@ import fitness from '../assets/ssss.PNG'
 import weatherApp from '../assets/weatherApp.png'
 import Nothing from '../assets/Nothing_whitespace_blank.png'
 import Guarana from '../assets/main_en_1581299777_brainer.png'
+import Chipsy from '../assets/Chipsy-Domacinski-baner-1366x550px-v1-SRB.jpg'
+
 
 import 'aos/dist/aos.css'
 import Aos from 'aos';
@@ -36,7 +38,7 @@ const Portfolio = () => {
         },
         {
             id:4,
-            src:Nothing,
+            src:Chipsy,
             webSite: 'https://chipsy-web-site.vercel.app',
             code: 'https://github.com/Sandro2906/ChipsyWebSite/tree/master/frontend'
         },
