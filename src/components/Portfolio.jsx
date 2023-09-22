@@ -46,7 +46,7 @@ const Portfolio = () => {
         {
             id:5,
             src:Dentist,
-            webSite: 'https://dentist-web-site.vercel.app',
+            webSite: 'https://green-dentist.vercel.app',
             code: 'https://github.com/Sandro2906/greenDentist/tree/master/frontend'
         },
         {
