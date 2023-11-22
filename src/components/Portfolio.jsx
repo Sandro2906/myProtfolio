@@ -5,7 +5,7 @@ import Nothing from '../assets/Nothing_whitespace_blank.png'
 import Guarana from '../assets/main_en_1581299777_brainer.png'
 import Chipsy from '../assets/Chipsy-Domacinski-baner-1366x550px-v1-SRB.jpg'
 import Dentist from '../assets/9c879909741ebaa6b7a614071079e542.jpg'
-import NextJS from '../assets/'
+import NextJS from '../assets/next-JS-framework.png'
 
 
 import 'aos/dist/aos.css'
