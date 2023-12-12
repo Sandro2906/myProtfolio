@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-
+import TT from '../assets/NEXT-js-tutorial-1.png'
 import weatherApp from '../assets/weatherApp.png'
 import Nothing from '../assets/Nothing_whitespace_blank.png'
 import Guarana from '../assets/main_en_1581299777_brainer.png'
@@ -33,7 +33,7 @@ const Portfolio = () => {
         },
         {
             id:3,
-            src:fitness,
+            src:TT,
             webSite: 'https://todays-tasks-next-js-9amw.vercel.app',
             code: 'https://github.com/Sandro2906/TodaysTasksNextJS'
             
