@@ -27,10 +27,11 @@ const Portfolio = () => {
         },
         {
             id:2,
-            src:weatherApp,
-            webSite: 'https://weather-app-beryl-beta.vercel.app/?fbclid=IwAR1J2r8c94b7gn7GlScDG97P14_fG9kWhiTobitNBnt47I3tubdxsSGjcxQ',
-            code: 'https://github.com/Sandro2906/WeatherApp'
+            src:NextJS,
+            webSite: 'https://dashboard-application-rose.vercel.app/dashboard',
+            code: 'https://github.com/Sandro2906/DashboardApplication'
         },
+        
         {
             id:3,
             src:TT,
@@ -56,6 +57,13 @@ const Portfolio = () => {
             webSite: 'https://next-js-store-noqx.vercel.app',
             code: 'https://github.com/Sandro2906/NextJSStore'
         },
+        {
+            id:7,
+            src:weatherApp,
+            webSite: 'https://weather-app-beryl-beta.vercel.app/?fbclid=IwAR1J2r8c94b7gn7GlScDG97P14_fG9kWhiTobitNBnt47I3tubdxsSGjcxQ',
+            code: 'https://github.com/Sandro2906/WeatherApp'
+        },
+         
     ]
 
   return (
